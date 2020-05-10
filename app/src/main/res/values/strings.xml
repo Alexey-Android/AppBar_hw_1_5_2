@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="MyNote">Моя заметка</string>
+    <string name="save">Сохранить</string>
+    <string name="startDateTime">Начало задачи</string>
+    <string name="endDateTime">Окончание задачи</string>
+    <string name="ok">ОК</string>
+    <string name="map_1">Карта</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="hint_name">Введите имя</string>
+    <string name="user_email">Email пользователя</string>
+    <string name="hint_email">Введите email</string>
+    <string name="button">Сохранить</string>
+    <string name="button_clear">Очистить</string>
+    <string name="success">Успех</string>
+    <string name="back">Назад</string>
+    <string name="url">URL</string>
+    <string name="forward">Вперед</string>
+    <string name="inpMoney">Введите сумму</string>
+    <string name="inpInfo">Введите назначение платежа</string>
+    <string name="buttonOK">OK</string>
+    <string name="bankCardCheckBox">С банковской карты</string>
+    <string name="mobilePhoneCheckBox">С телефона</string>
+    <string name="cashAddressCheckBox">Адрес</string>
+    <string name="showAddress">Показать адрес</string>
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+    <string name="Author">Александров Алексей</string>
+    <string name="System">Комплексная система мониторинга здоровья</string>
+    <string name="Name">Введите ФИО</string>
+    <string name="Age">Введите возраст</string>
+    <string name="SaveName">Сохранить</string>
+    <string name="Pressure">Записать показатели давления</string>
+    <string name="Indicators">Записать жизненные показатели</string>
+    <string name="Picture">Картинка</string>
+    <string name="SYS">Введите верхнее давление</string>
+    <string name="DIA">Введите нижнее давление</string>
+    <string name="Pulse">Введите пульс</string>
+    <string name="Tachycardia">Тахикардия</string>
+    <string name="SaveData">Сохранить</string>
+    <string name="Date">Дата и время записи давления</string>
+    <string name="HealthIndicators">Жизненные показатели</string>
+    <string name="Date2">Дата и время записи показателей</string>
+    <string name="Steps">Введите количество шагов</string>
+    <string name="SaveData2">Сохранить</string>
+    <string name="Weight">Введите вес</string>
+
+</resources>

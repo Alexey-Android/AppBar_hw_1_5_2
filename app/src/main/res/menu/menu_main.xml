@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.netodologia.myapplication.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_notes"
+        android:orderInCategory="100"
+        android:title="Записная книжка"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_calendarView"
+        android:orderInCategory="100"
+        android:title="Сроки задачи"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_first"
+        android:orderInCategory="100"
+        android:title="Первый Android проект"
+        app:showAsAction="never" />
+
+    <item
+    android:id="@+id/action_open_helloworld"
+    android:orderInCategory="100"
+    android:title="Собственный Hello world"
+    app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_subscription"
+        android:orderInCategory="100"
+        android:title="Подписка"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_photoview"
+        android:orderInCategory="100"
+        android:title="Бесконечный переход между экранами"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_checkbox"
+        android:orderInCategory="100"
+        android:title="CheckBox"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_spinner"
+        android:orderInCategory="100"
+        android:title="Spinner"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_healthsystem"
+        android:orderInCategory="100"
+        android:title="Комплексная система мониторинга здоровья"
+        app:showAsAction="never" />
+</menu>
